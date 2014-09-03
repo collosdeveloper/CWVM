@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CWView">
+        <attr name="Zoom" format="boolean"/>
+        <attr name="ZoomButton" format="boolean"/>
+        <attr name="JavaScript" format="boolean"/>
+        <attr name="BlockLoadImg" format="boolean"/>
+        <attr name="MailTextSize" format="integer"/>
+        <attr name="TextStyle" format="enum">
+            <enum name="monospace" value="1"/>
+            <enum name="sansSerif" value="0"/>
+        </attr>
+        <attr name="MaximumScale" format="enum">
+            <enum name="normal" value="2"/>
+            <enum name="large" value="4"/>
+        </attr>
+    </declare-styleable>
+</resources>
