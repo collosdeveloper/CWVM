@@ -1,9 +1,11 @@
+App Architecture : 
+==================
+
 WebView-Mail
 
 Easy to use WebView to display mail Like K9 and Gmail
 	
-App Architecture : 
-==================
+
 	
 	1. Client-Server Architecture : 
 		a) JSON-RPC (Link to library : http://software.dzhuvinov.com/json-rpc-2.0-client.html) :
